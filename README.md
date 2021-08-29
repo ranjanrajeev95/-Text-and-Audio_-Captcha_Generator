@@ -2,7 +2,7 @@
 ```python
 pip install captcha
 ```
-## Generating [**Image**](https://github.com/Iamtripathisatyam/Generate_Captcha/blob/main/image_captcha.py) Captcha: 
+## Generating [**Image**](https://github.com/ranjanrajeev95/Generate_Captcha/blob/main/image_captcha.py) Captcha: 
 #### Stepwise implementation:
 - Import module and create an instance of ***ImageCaptcha()***
 - Create image object with ***image.generate(CAPTCHA_Text)***
