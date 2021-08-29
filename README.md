@@ -2,7 +2,7 @@
 ```python
 pip install captcha
 ```
-## Generating [**Image**](https://github.com/ranjanrajeev95/Generate_Captcha/blob/main/image_captcha.py) Captcha: 
+## Generating [**Image**] Captcha: 
 #### Stepwise implementation:
 - Import module and create an instance of ***ImageCaptcha()***
 - Create image object with ***image.generate(CAPTCHA_Text)***
@@ -13,7 +13,7 @@ pip install captcha
 <p align="center"><img src="https://user-images.githubusercontent.com/69134468/127764990-c86c17d8-b5be-4bd1-853a-a1b3098f19bb.png"></p>
 
 
-## Generating [**Audio**](https://github.com/ranjanrajeev95/Generate_Captcha/blob/main/audio_captcha.py) Captcha:
+## Generating [**Audio**] Captcha:
 #### Stepwise implementation:
 - Import module and create an instance of ***AudioCaptcha()***
 - Create an audio object with ***audio.generate(CAPTCHA_Text)***
